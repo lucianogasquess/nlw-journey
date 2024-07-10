@@ -17,7 +17,7 @@ Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
 
 <p align="center">
   <img alt="Preview do projeto desenvolvido na versão Desktop." src="./assets/projetodesktop.png" width="60%">
-  <img alt="Preview do projeto desenvolvido na versão Mobile." src="./assets/projetomobile.png" width="60%">
+  <img alt="Preview do projeto desenvolvido na versão Mobile." src="./assets/projetomobile.png" width="30%">
 </p>
 
 
