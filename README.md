@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="Logo NLW Journey - Rocketseat" src=".github/logo.png" width="200px" />
-</p>
 
 <p align="center">
 Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
@@ -19,7 +16,8 @@ Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido na versão Desktop." src="./assets/projetodesktop.png" width="60%">
+  <img alt="Preview do projeto desenvolvido na versão Mobile." src="./assets/projetomobile.png" width="60%">
 </p>
 
 
